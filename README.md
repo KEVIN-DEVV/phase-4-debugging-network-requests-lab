@@ -62,12 +62,12 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - Changed from Toys to Toy.create
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - Rendered the data
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - Added the resource: Destroy
